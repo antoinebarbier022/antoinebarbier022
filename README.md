@@ -7,7 +7,7 @@ I am a French front-end developer passionate about creating exceptional user exp
 ## 🧰 Skills and Technologies
 
 - **Front-end Development**: HTML, CSS, JavaScript/TypeScript
-- **JavaScript Frameworks**: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/)
+- **JavaScript Frameworks**: [React](https://reactjs.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/), [Lit](https://lit.dev/), [Svelte](https://svelte.dev/)
 - **Design System**: I have a keen interest in working with design systems, creating reusable and consistent components to ensure a seamless user experience.
 - **Web Components**: I am also exploring the world of Web Components to promote modularity and reusability of UI elements.
 - **Storybook**: I use [Storybook](https://storybook.js.org/) to develop, document, and test my UI components in isolation.
@@ -20,3 +20,6 @@ I am a French front-end developer passionate about creating exceptional user exp
 Feel free to reach out to me for collaborations or simply to discuss the latest trends in the front-end development world.
 
 Let's create amazing things together! ✨
+
+
+
